@@ -1,4 +1,9 @@
 ### Fun fact: Batman is my favorite super hero!
+
+### I have enrolled in 92 udemy.com courses.
+### You can find them here:
+### https://www.udemy.com/user/tom-irimescu/
+
 <!--
 **TomIrimescu/tomirimescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
