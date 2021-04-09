@@ -1,5 +1,4 @@
-### Fun fact: I have owned 4 corvettes 
-
+### Fun fact: Batman is my favorite super hero! :-)
 <!--
 **TomIrimescu/tomirimescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
