@@ -5,4 +5,4 @@
 https://www.udemy.com/user/tom-irimescu
 ---
 ### Another fun fact: **Corvette** is my *favorite automobile*!
-<span style="color:blue">some *blue* text</span>
+<span style="color:blue">some blue text</span>
