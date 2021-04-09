@@ -4,3 +4,4 @@
 > I have enrolled in 92 udemy development courses.
 https://www.udemy.com/user/tom-irimescu
 ---
+### Another fun fact: **Corvette** is my *favorite Automobile*!
