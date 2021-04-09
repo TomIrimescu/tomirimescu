@@ -2,5 +2,5 @@
 
 ---
 
-### I have enrolled in 92 udemy.com development courses.
-[udemy courses] (https://www.udemy.com/user/tom-irimescu)
+### I have enrolled in 92 udemy development courses.
+[courses] (https://www.udemy.com/user/tom-irimescu)
